@@ -1,0 +1,17 @@
+{
+  "name": "payever_qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^101.0.0",
+    "geckodriver": "^3.0.1",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
